@@ -25,7 +25,7 @@ To use the Shree Ram Animation Block in your project, follow these steps:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/shree-ram-animation-block.git
+    git clone https://github.com/robin-ivi/shree-ram.git
     ```
 
 2. Copy the necessary CSS and HTML files into your project directory.
@@ -50,7 +50,7 @@ To use the Shree Ram Animation Block in your project, follow these steps:
 
 ## Credits
 
-This animation block is created by [Your Name] and is inspired by the timeless story of Lord Rama.
+This animation block is created by [Krishna Nand Mishra] and is inspired by the timeless story of Lord Rama.
 
 ## License
 
